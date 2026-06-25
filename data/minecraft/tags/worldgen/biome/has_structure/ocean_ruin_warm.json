@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "a425dims:sky_lukewarm_ocean",
+    "a425dims:sky_warm_ocean",
+    "a425dims:sky_deep_lukewarm_ocean"
+  ]
+}

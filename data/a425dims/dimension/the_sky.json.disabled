@@ -1,0 +1,11 @@
+{
+  "type": "a425dims:the_sky",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "a425dims:sky_islands",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "preset": "a425dims:sky_biomes"
+    }
+  }
+}

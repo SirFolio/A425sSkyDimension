@@ -1,0 +1,1728 @@
+{
+  "type": "a425dims:the_sky",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "a425dims:sky_islands",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "a425dims:sky_deep_frozen_ocean",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_frozen_ocean",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_deep_cold_ocean",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_cold_ocean",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_deep_ocean",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_deep_lukewarm_ocean",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_lukewarm_ocean",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_warm_ocean",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_stony_shore",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_swamp",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mangrove_swamp",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_snowy_slopes",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_snowy_plains",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_snowy_beach",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_windswept_gravelly_hills",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_grove",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_windswept_hills",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_snowy_taiga",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_windswept_forest",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_taiga",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_plains",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_meadow",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_beach",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_forest",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_old_growth_spruce_taiga",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_flower_forest",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_birch_forest",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_dark_forest",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_pale_garden",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_savanna_plateau",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": -0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_savanna",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": -0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_jungle",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_badlands",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": -0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_desert",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": -0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_wooded_badlands",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": -0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_jagged_peaks",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_stony_peaks",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_frozen_river",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_river",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ice_spikes",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_old_growth_pine_taiga",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_sunflower_plains",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_old_growth_birch_forest",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_sparse_jungle",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_bamboo_jungle",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_eroded_badlands",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": -0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_windswept_savanna",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": -0.5,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_cherry_grove",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_frozen_peaks",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_dripstone_caves",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_lush_caves",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_sulfur_caves",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_deep_dark",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": 0.5,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": -0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.0,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_mushroom_fields",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.5,
+            "continentalness": -1.1,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.7,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": -0.15,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.55,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": -0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.0,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": -0.5,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "a425dims:sky_ocean",
+          "parameters": {
+            "temperature": 0.9,
+            "humidity": 0.5,
+            "continentalness": -1.0,
+            "erosion": 0.0,
+            "weirdness": 0.8,
+            "depth": 0.5,
+            "offset": 0.0
+          }
+        }
+      ]
+    }
+  }
+}

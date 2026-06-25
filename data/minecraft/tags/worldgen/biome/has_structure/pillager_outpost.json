@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "a425dims:sky_desert",
+    "a425dims:sky_plains",
+    "a425dims:sky_savanna",
+    "a425dims:sky_snowy_plains",
+    "a425dims:sky_taiga",
+    "a425dims:sky_grove"
+  ]
+}

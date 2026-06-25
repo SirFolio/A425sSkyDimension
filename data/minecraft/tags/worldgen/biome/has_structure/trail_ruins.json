@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "a425dims:sky_taiga",
+    "a425dims:sky_snowy_taiga",
+    "a425dims:sky_old_growth_pine_taiga",
+    "a425dims:sky_old_growth_spruce_taiga",
+    "a425dims:sky_old_growth_birch_forest",
+    "a425dims:sky_jungle"
+  ]
+}
