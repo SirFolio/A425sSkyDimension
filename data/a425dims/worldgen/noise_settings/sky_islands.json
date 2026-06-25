@@ -32,41 +32,49 @@
           "argument2": {
             "type": "minecraft:add",
             "argument1": {
-              "type": "minecraft:spline",
-              "spline": {
-                "coordinate": "minecraft:overworld/continents",
-                "points": [
-                  {
-                    "location": -1.2,
-                    "value": 0.2,
-                    "derivative": 0.0
-                  },
-                  {
-                    "location": -1.051,
-                    "value": 0.2,
-                    "derivative": 0.0
-                  },
-                  {
-                    "location": -1.05,
-                    "value": -0.8,
-                    "derivative": 0.0
-                  },
-                  {
-                    "location": -0.2,
-                    "value": -0.8,
-                    "derivative": 0.0
-                  },
-                  {
-                    "location": -0.05,
-                    "value": 0.1,
-                    "derivative": 0.0
-                  },
-                  {
-                    "location": 1.0,
-                    "value": 0.1,
-                    "derivative": 0.0
-                  }
-                ]
+              "type": "minecraft:add",
+              "argument1": {
+                "type": "minecraft:spline",
+                "spline": {
+                  "coordinate": "minecraft:overworld/continents",
+                  "points": [
+                    {
+                      "location": -1.2,
+                      "value": 0.2,
+                      "derivative": 0.0
+                    },
+                    {
+                      "location": -1.051,
+                      "value": 0.2,
+                      "derivative": 0.0
+                    },
+                    {
+                      "location": -1.05,
+                      "value": -0.8,
+                      "derivative": 0.0
+                    },
+                    {
+                      "location": -0.2,
+                      "value": -0.8,
+                      "derivative": 0.0
+                    },
+                    {
+                      "location": -0.05,
+                      "value": 0.1,
+                      "derivative": 0.0
+                    },
+                    {
+                      "location": 1.0,
+                      "value": 0.1,
+                      "derivative": 0.0
+                    }
+                  ]
+                }
+              },
+              "argument2": {
+                "type": "minecraft:mul",
+                "argument1": 0.5,
+                "argument2": "minecraft:overworld/offset"
               }
             },
             "argument2": {
@@ -116,7 +124,15 @@
                     ]
                   }
                 },
-                "argument2": "minecraft:end/base_3d_noise"
+                "argument2": {
+                  "type": "minecraft:add",
+                  "argument1": "minecraft:end/base_3d_noise",
+                  "argument2": {
+                    "type": "minecraft:mul",
+                    "argument1": 0.2,
+                    "argument2": "minecraft:overworld/jaggedness"
+                  }
+                }
               }
             }
           }
@@ -5065,7 +5081,7 @@
                               "then_run": {
                                 "type": "minecraft:block",
                                 "result_state": {
-                                  "Name": "minecraft:cyan_terracotta"
+                                  "Name": "minecraft:packed_ice"
                                 }
                               }
                             },
@@ -5080,7 +5096,7 @@
                               "then_run": {
                                 "type": "minecraft:block",
                                 "result_state": {
-                                  "Name": "minecraft:cyan_terracotta"
+                                  "Name": "minecraft:packed_ice"
                                 }
                               }
                             },
@@ -5110,7 +5126,7 @@
                               "then_run": {
                                 "type": "minecraft:block",
                                 "result_state": {
-                                  "Name": "minecraft:blue_terracotta"
+                                  "Name": "minecraft:snow_block"
                                 }
                               }
                             }
@@ -5176,7 +5192,7 @@
                               "then_run": {
                                 "type": "minecraft:block",
                                 "result_state": {
-                                  "Name": "minecraft:blue_terracotta"
+                                  "Name": "minecraft:snow_block"
                                 }
                               }
                             }
@@ -5218,7 +5234,7 @@
                               "then_run": {
                                 "type": "minecraft:block",
                                 "result_state": {
-                                  "Name": "minecraft:blue_terracotta"
+                                  "Name": "minecraft:snow_block"
                                 }
                               }
                             }
@@ -5272,7 +5288,7 @@
                               "then_run": {
                                 "type": "minecraft:block",
                                 "result_state": {
-                                  "Name": "minecraft:blue_terracotta"
+                                  "Name": "minecraft:snow_block"
                                 }
                               }
                             }
@@ -5816,7 +5832,7 @@
                           "then_run": {
                             "type": "minecraft:block",
                             "result_state": {
-                              "Name": "minecraft:blue_terracotta"
+                              "Name": "minecraft:snow_block"
                             }
                           }
                         }
@@ -5971,7 +5987,7 @@
                               "then_run": {
                                 "type": "minecraft:block",
                                 "result_state": {
-                                  "Name": "minecraft:cyan_terracotta"
+                                  "Name": "minecraft:packed_ice"
                                 }
                               }
                             },
@@ -5986,7 +6002,7 @@
                               "then_run": {
                                 "type": "minecraft:block",
                                 "result_state": {
-                                  "Name": "minecraft:cyan_terracotta"
+                                  "Name": "minecraft:packed_ice"
                                 }
                               }
                             },
@@ -6016,7 +6032,7 @@
                               "then_run": {
                                 "type": "minecraft:block",
                                 "result_state": {
-                                  "Name": "minecraft:blue_terracotta"
+                                  "Name": "minecraft:snow_block"
                                 }
                               }
                             }
@@ -6082,7 +6098,7 @@
                               "then_run": {
                                 "type": "minecraft:block",
                                 "result_state": {
-                                  "Name": "minecraft:blue_terracotta"
+                                  "Name": "minecraft:snow_block"
                                 }
                               }
                             }
